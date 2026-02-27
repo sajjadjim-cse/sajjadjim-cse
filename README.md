@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="left">Github Stats</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sajjadjim/sajjadjim/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sajjadjim/sajjadjim/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sajjadjim/sajjadjim/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sajjadjim-cse/sajjadjim-cse/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sajjadjim-cse/sajjadjim-cse/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sajjadjim-cse/sajjadjim-cse/output/github-snake.svg" />
 </picture>
